@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Recipe Book</title>
+<style>
+
+
+}
+h1 {
+color:rgb(242, 145, 153);
+}
+h2 {
+color:rgb(250, 97, 110);
+}
+a {
+
+color:rgb(255, 51, 61);
+}
+
+
+
+
+
+th {
+background-color: #e9ecef;
+}
+</style>
+</head>
+<body>
+<div class="container">
+<h1>Danna's Recipe Book</h1>
+
+<h2>Contents</h2>
+<ul>
+<li><a href="#cinnamon">1. Cinnamon Biscuits</a></li>
+<li><a href="#banana">2. Banana and chocolate puff pastry</a></li>
+<li><a href="#raspberry">3. Raspberry cheese danish</a></li>
+</ul>
+
+<h2 id="cinnamon">Recipe #1: Cinnamon Biscuits
+</h2>
+<table>
+<thead>
+<tr>
+<th>Ingredients</th>
+<th>Quantity</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cinnamon</td>
+<td>1/2 teaspoon</td>
+</tr>
+<tr>
+<td>Sugar</td>
+<td>1/2 cup</td>
+</tr>
+<tr>
+<td>Buttermilk Biscuits</td>
+<td>10 ounces</td>
+</tr>
+<tr>
+<td>Melted butter</td>
+<td>1/4</td>
+</tr>
+<tr>
+<td>Strawberry preserves</td>
+<td>10 teaspoons</td>
+</tr>
+</tbody>
+</table>
+<h3>Steps</h3>
+<ol>
+<li>Combine sugar and cinammon.</li>
+<li>Dip top and sides of biscuits in butter, then cinnamon.</li>
+<li>Place biscuits on ungreased baking sheets.</li>
+<li>make small indentations on biscuits, fill with strawberry preserve.
+</li>
+<li>Bake at 375°for 15 mins..</li>
+</ol>
+
+<h2 id="banana">Recipe #2: Banana & Chocolate Puff pastry</h2>
+<table>
+<thead>
+<tr>
+<th>Ingredients</th>
+<th>Quantity</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Butter</td>
+<td>2 tablespoons</td>
+</tr>
+<tr>
+<td>Brown sugar</td>
+<td>1/4 cup</td>
+</tr>
+<tr>
+<td>Ripe bananas</td>
+<td>2</td>
+</tr>
+<tr>
+<td>frozen puff pastry</td>
+<td>1 sheet</td>
+</tr>
+<tr>
+<td>Semi sweet chocolate</td>
+<td>4 ounces</td>
+</tr>
+</tbody>
+</table>
+<h3>Steps</h3>
+<ol>
+<li>Melt butter in medium heat, stir with brown sugar.</li>
+<li>Add bananas, stir to coat.</li>
+<li>Unfold puff pastries, cut into 2 rectangles.</li>
+<li>Bake until golden brown, 20 mins.</li>
+</ol>
+
+<h2 id="raspberry">Recipe #3: Raspberry Cheese Danish</h2>
+<table>
+<thead>
+<tr>
+<th>Ingredients</th>
+<th>Quantity</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Softened cream cheese</td>
+<td>4 ounces</td>
+</tr>
+<tr>
+<td>confectioners sugar</td>
+<td>1 cup</td>
+</tr>
+<tr>
+<td>refrigerated crescent rolls</td>
+<td>1 can </td>
+</tr>
+<tr>
+<td>White sugar</td>
+<td>3/4 cup</td>
+</tr>
+<tr>
+<td>Eggs</td>
+<td>2</td>
+</tr>
+<tr>
+<td>seedless raspberry jam</td>
+<td>1/2 cup</td>
+</tr>
+<tr>
+<td>2% milk</td>
+<td>2 teaspoons</td>
+</tr>
+</tbody>
+</table>
+<h3>Steps</h3>
+<ol>
+<li>beat cream cheese and sugar until smooth.</li>
+<li>unroll crescent rolls and separate into 4 rectangles. cut each in half. </li>
+<li>Spread cream diagonally across squares.</li>
+<li>top with 1 tablespoon of jam.</li>
+<li>Bring 2 opposite corners of squares together and pinch, sealing it.</li>
+<li>Bake at 375° until golden brown</li>
+</ol>
+</div>
+</body>
+</html>
